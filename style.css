@@ -1,0 +1,8 @@
+#listBtn {
+  visibility: hidden;
+}
+
+tr:hover #listBtn {
+  visibility: visible;
+  color: red;
+}
